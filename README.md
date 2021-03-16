@@ -7,6 +7,7 @@ About this course:
 * Video: 3.5 total hours
 
 Description:
+
     PHP Variables, Syntax, Variable Scope, Keywords
     Echo vs. Print and Data Output
     PHP Strings, Constants, Operators
